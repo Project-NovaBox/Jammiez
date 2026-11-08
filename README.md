@@ -1,2 +1,2 @@
-# NovaESPX
-NovaBoxes ESPX Graphics API Hotswapper Module
+# Jammiez
+NovaBoxes Background Music Service
